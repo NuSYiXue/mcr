@@ -1,6 +1,4 @@
-DOMAIN,video.akamai.steamstatic.com
-DOMAIN,shared.akamai.steamstatic.com
 DOMAIN-KEYWORD,steamcommunity
 DOMAIN,store.steampowered.com
-DOMAIN-SUFFIX,fastly.steamstatic.com
 DOMAIN,images.steamusercontent.com
+DOMAIN-SUFFIX,steamstatic.com
